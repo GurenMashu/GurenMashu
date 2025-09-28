@@ -2,7 +2,7 @@
   <h1><code style="font-family: 'Courier New', 'Monaco', 'Menlo', 'Consolas', monospace; font-size: 2.5rem; color: #7B61FF; background-color: #0d1117;">GurenMashu</code></h1>
 </div>
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=800&color=7B61FF&background=00000000&center=true&vCenter=true&multiline=true&width=800&height=120&lines=Aspiring+Machine+Learning+Engineer;Deep+Learning" alt="Typing Animation"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=800&color=7B61FF&background=00000000&center=true&vCenter=true&multiline=true&width=800&height=120&lines=Aspiring+Machine+Learning+Engineer;Deep+Learning+Enthusiast" alt="Typing Animation"/>
 </div>
 <br>
 <div align="center">
