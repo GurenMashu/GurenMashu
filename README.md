@@ -41,7 +41,6 @@ Passionate about building intelligent systems, deploying ML models, and crafting
 
 ---
 
-🎯 Current Focus
 ```python 
 class GurenMashu:
     def __init__(self):
@@ -60,7 +59,6 @@ class GurenMashu:
 ```
 ---
 
-📊 Activity Graph
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=GurenMashu&theme=tokyo-night&bg_color=0d1117&color=7b61ff&line=7b61ff&point=ffffff&area=true&hide_border=true" alt="Contribution Graph"/>
 </div>
