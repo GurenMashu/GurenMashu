@@ -1,12 +1,18 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f172a,100:1e293b&text=GurenMashu&fontSize=60&fontColor=E6EEF7&animation=fadeIn&fontAlign=50&fontAlignY=38&desc=Software%20Engineer%20•%20AI%20%26%20Full-Stack%20Developer&descAlign=50&descAlignY=65&descSize=22" alt="Wavy Banner"/>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=7B61FF&center=true&vCenter=true&width=900&lines=Python+%7C+PyTorch;scikit-learn+%7C+RAG;Machine+Learning+%7C+Deep+Learning;Linux+%7C+GitHub" alt="Typing SVG" />
-</p>
-
-
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=280&color=0:0a0a0a,50:1a1a2e,100:16213e&text=GurenMashu&fontSize=70&fontColor=ffffff&animation=blinking&fontAlign=50&fontAlignY=40&desc=Software%20Engineer%20•%20AI%20%26%20Full-Stack%20Developer&descAlign=50&descAlignY=65&descSize=20&stroke=7B61FF&strokeWidth=2" alt="Header"/>
+</div>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=800&color=7B61FF&background=00000000&center=true&vCenter=true&multiline=true&width=800&height=120&lines=🚀+Machine+Learning+Engineer;🧠+Deep+Learning+Specialist;⚡+Full-Stack+Developer;🔬+AI+Research+%26+Innovation" alt="Typing Animation"/>
+</div>
+<br>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GurenMashu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7b61ff&icon_color=7b61ff&text_color=c9d1d9&ring_color=7b61ff" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GurenMashu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7b61ff&text_color=c9d1d9" alt="Top Languages" height="180"/>
+</div>
+<br>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=GurenMashu&theme=tokyonight&hide_border=true&background=0D1117&ring=7B61FF&fire=7B61FF&currStreakLabel=C9D1D9&sideLabels=C9D1D9&currStreakNum=7B61FF&sideNums=7B61FF&dates=8B949E" alt="GitHub Streak"/>
+</div>
 ---
 
 ## About Me
