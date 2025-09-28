@@ -13,7 +13,6 @@
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=GurenMashu&theme=tokyonight&hide_border=true&background=0D1117&ring=7B61FF&fire=7B61FF&currStreakLabel=C9D1D9&sideLabels=C9D1D9&currStreakNum=7B61FF&sideNums=7B61FF&dates=8B949E" alt="GitHub Streak"/>
 </div>
----
 
 ## About Me
 Aspiring Machine Learning and Deep Learning Engineer  
