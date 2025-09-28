@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0f172a&height=200&section=header&text=GurenMashu&fontSize=60&fontColor=E6EEF7&animation=fadeIn&fontAlign=50&fontAlignY=35" alt="Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f172a,100:1e293b&text=GurenMashu&fontSize=60&fontColor=E6EEF7&animation=fadeIn&fontAlign=50&fontAlignY=38&desc=Software%20Engineer%20•%20AI%20%26%20Full-Stack%20Developer&descAlign=50&descAlignY=65&descSize=22" alt="Wavy Banner"/>
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=7B61FF&center=true&vCenter=true&width=900&lines=Python+%7C+PyTorch;scikit-learn+%7C+RAG;Machine+Learning+%7C+Deep+Learning;Linux+%7C+GitHub" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=7B61FF&center=true&vCenter=true&width=900&lines=Software+Engineer+%7C+AI+%26+Full-Stack+Developer;Python+%7C+PyTorch;scikit-learn+%7C+RAG;Machine+Learning+%7C+Deep+Learning;Linux+%7C+GitHub" alt="Typing SVG" />
-</p>
 
 ---
 
