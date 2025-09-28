@@ -1,21 +1,84 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="250" viewBox="0 0 1200 250">
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 250" width="1200" height="250">
   <defs>
+    <!-- smooth dark gradient background -->
     <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
-      <stop offset="0" stop-color="#0f0f0f"/>
-      <stop offset="1" stop-color="#1a1a1a"/>
+      <stop offset="0%" stop-color="#0b0f14"/>
+      <stop offset="100%" stop-color="#0f1720"/>
     </linearGradient>
   </defs>
 
-  <!-- Background -->
-  <rect width="1200" height="250" fill="url(#bg)" rx="14" ry="14"/>
+  <!-- base -->
+  <rect width="1200" height="250" fill="url(#bg)" rx="12" ry="12"/>
 
-  <!-- Animated Typing Text -->
-  <foreignObject x="50" y="80" width="1100" height="120">
-    <div xmlns="http://www.w3.org/1999/xhtml" style="font-family: 'Segoe UI', sans-serif; font-size: 32px; color: #E6EEF7; font-weight: 600;">
-      <p>
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1200&color=7B61FF&center=false&vCenter=true&width=900&lines=GurenMashu;Software+Engineer+%7C+AI+%26+Full-Stack+Developer;Python+%7C+PyTorch;Scikit-learn+%7C+Deep+Learning;Machine+Learning+%7C+RAG;Linux+%7C+GitHub" alt="Typing SVG"/>
-      </p>
-    </div>
-  </foreignObject>
-</svg>
+  <!-- subtle drifting shapes for depth -->
+  <g opacity="0.06" fill="#9be7ff">
+    <circle cx="60" cy="40" r="40">
+      <animate attributeName="cx" dur="20s" values="60;1140;60" repeatCount="indefinite"/>
+      <animate attributeName="cy" dur="18s" values="40;200;80" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="300" cy="180" r="28">
+      <animate attributeName="cx" dur="22s" values="300;900;300" repeatCount="indefinite"/>
+      <animate attributeName="cy" dur="19s" values="180;40;160" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="900" cy="80" r="34">
+      <animate attributeName="cx" dur="25s" values="900;100;900" repeatCount="indefinite"/>
+      <animate attributeName="cy" dur="21s" values="80;220;60" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <!-- subtle rounded banner band to keep text area clean -->
+  <rect x="56" y="70" width="1088" height="90" rx="8" fill="rgba(255,255,255,0.02)"/>
+
+  <!--
+    Sequence of texts that are revealed (typing-style) using clipPaths.
+    Cycle duration = 18s. Each message occupies a ~3s slot (reveal → hold → hide).
+    Messages (in order):
+      1) GurenMashu
+      2) Software Engineer • AI & Full-Stack Developer
+      3) Python • PyTorch
+      4) scikit-learn • RAG
+      5) Machine Learning • Deep Learning
+      6) Linux • GitHub
+  -->
+
+  <!-- clip + animate for message 1 -->
+  <clipPath id="clip1">
+    <rect x="80" y="82" width="0" height="60">
+      <!-- values: 0;0;900;900;0;0  keyTimes correspond to timeline within 18s -->
+      <animate attributeName="width" dur="18s" repeatCount="indefinite"
+               values="0;0;900;900;0;0"
+               keyTimes="0;0.000000;0.044444;0.144444;0.166667;1"
+               calcMode="linear" />
+    </rect>
+  </clipPath>
+  <g clip-path="url(#clip1)">
+    <text x="80" y="120" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial"
+          font-size="28" fill="#E6EEF7" font-weight="600">GurenMashu</text>
+  </g>
+
+  <!-- message 2 -->
+  <clipPath id="clip2">
+    <rect x="80" y="82" width="0" height="60">
+      <animate attributeName="width" dur="18s" repeatCount="indefinite"
+               values="0;0;900;900;0;0"
+               keyTimes="0;0.166667;0.211111;0.311111;0.333333;1"
+               calcMode="linear" />
+    </rect>
+  </clipPath>
+  <g clip-path="url(#clip2)">
+    <text x="80" y="120" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial"
+          font-size="28" fill="#E6EEF7" font-weight="600">Software Engineer • AI &amp; Full-Stack Developer</text>
+  </g>
+
+  <!-- message 3 -->
+  <clipPath id="clip3">
+    <rect x="80" y="82" width="0" height="60">
+      <animate attributeName="width" dur="18s" repeatCount="indefinite"
+               values="0;0;900;900;0;0"
+               keyTimes="0;0.333333;0.377778;0.477778;0.5;1"
+               calcMode="linear" />
+    </rect>
+  </clipPath>
+  <g clip-path="url(#clip3)">
+    <text x="80" y="120" font-family=
