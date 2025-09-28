@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=280&color=0:0a0a0a,50:1a1a2e,100:16213e&text=GurenMashu&fontSize=70&fontColor=ffffff&animation=blinking&fontAlign=50&fontAlignY=40&desc=Software%20Engineer%20•%20AI%20%26%20Full-Stack%20Developer&descAlign=50&descAlignY=65&descSize=20&stroke=7B61FF&strokeWidth=2" alt="Header"/>
+  <h1><code style="font-family: 'Courier New', 'Monaco', 'Menlo', 'Consolas', monospace; font-size: 2.5rem; color: #7B61FF; background-color: #0d1117;">GurenMashu</code></h1>
 </div>
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=800&color=7B61FF&background=00000000&center=true&vCenter=true&multiline=true&width=800&height=120&lines=Aspiring+Machine+Learning+Engineer;Deep+Learning" alt="Typing Animation"/>
