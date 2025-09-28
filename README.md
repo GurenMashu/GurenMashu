@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=venom&height=280&color=0:0a0a0a,50:1a1a2e,100:16213e&text=GurenMashu&fontSize=70&fontColor=ffffff&animation=blinking&fontAlign=50&fontAlignY=40&desc=Software%20Engineer%20•%20AI%20%26%20Full-Stack%20Developer&descAlign=50&descAlignY=65&descSize=20&stroke=7B61FF&strokeWidth=2" alt="Header"/>
 </div>
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=800&color=7B61FF&background=00000000&center=true&vCenter=true&multiline=true&width=800&height=120&lines=🚀+Machine+Learning+Engineer;🧠+Deep+Learning+Specialist;⚡+Full-Stack+Developer;🔬+AI+Research+%26+Innovation" alt="Typing Animation"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=800&color=7B61FF&background=00000000&center=true&vCenter=true&multiline=true&width=800&height=120&lines=Aspiring+Machine+Learning+Engineer;Deep+Learning" alt="Typing Animation"/>
 </div>
 <br>
 <div align="center">
@@ -42,23 +42,29 @@ Passionate about building intelligent systems, deploying ML models, and crafting
 
 ---
 
-## GitHub Metrics
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GurenMashu&theme=github_dark" alt="GitHub Contribution Graph"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GurenMashu&theme=github_dark" alt="Repos per language"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GurenMashu&theme=github_dark" alt="Most used languages"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GurenMashu&theme=github_dark" alt="GitHub Stats"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GurenMashu&theme=github_dark" alt="Commit activity"/>
-</p>
-
+🎯 Current Focus
+```python 
+class GurenMashu:
+    def __init__(self):
+        self.role = "Software Engineer"
+        self.focus = ["AI/ML", "Full-Stack Development", "Cloud Architecture"]
+        self.currently_learning = ["MLOps", "Transformer Architecture", "Kubernetes"]
+        self.interests = ["RAG Systems", "Computer Vision", "NLP"]
+        
+    def get_current_projects(self):
+        return [
+            "🔬 Advanced RAG Implementation",
+            "🤖 Custom LLM Fine-tuning",
+            "🌐 AI-Powered Web Applications",
+            "📊 ML Model Deployment Pipeline"
+        ]
+```
 ---
+
+📊 Activity Graph
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GurenMashu&theme=tokyo-night&bg_color=0d1117&color=7b61ff&line=7b61ff&point=ffffff&area=true&hide_border=true" alt="Contribution Graph"/>
+</div>
 
 ## Connect with Me
 <p align="left">
@@ -66,3 +72,7 @@ Passionate about building intelligent systems, deploying ML models, and crafting
   🔗 LinkedIn: <a href="https://www.linkedin.com/in/your-linkedin/">(https://www.linkedin.com/in/glenn-mathews-0a9641253/)</a><br>
   📱 Phone: +91-8848693581
 </p>
+
+<div align="center">
+  <i>⚡ "Building the future with code, one algorithm at a time" ⚡</i>
+</div>
