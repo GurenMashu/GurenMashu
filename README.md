@@ -53,6 +53,6 @@ Passionate about building intelligent systems, deploying ML models, and crafting
 ## Connect with Me
 <p align="left">
   📫 Gmail: <a href="mailto:your.email@gmail.com">glennmathews18@gmail.com</a><br>
-  🔗 LinkedIn: <a href="https://www.linkedin.com/in/your-linkedin/">l[inkedin.com/in/your-linkedin](https://www.linkedin.com/in/glenn-mathews-0a9641253/)</a><br>
+  🔗 LinkedIn: <a href="https://www.linkedin.com/in/your-linkedin/">(https://www.linkedin.com/in/glenn-mathews-0a9641253/)</a><br>
   📱 Phone: +91-8848693581
 </p>
