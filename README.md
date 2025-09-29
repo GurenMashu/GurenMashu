@@ -1,13 +1,14 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:83a4d4,100:b6fbff&height=200&section=header&text=Hi,%2%I'm%20Glenn%20&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=35" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5a189a,100:b6fbff&height=200&section=header&text=Hi,%2%I'm%20Glenn%20&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=35" width="100%"/>
 </div>
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=800&color=7B61FF&background=00000000&center=true&vCenter=true&multiline=true&width=800&height=120&lines=Aspiring+Machine+Learning+Engineer;Deep+Learning+Enthusiast" alt="Typing Animation"/>
 </div>
 <br>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GurenMashu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7b61ff&icon_color=7b61ff&text_color=c9d1d9&ring_color=7b61ff" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GurenMashu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7b61ff&text_color=c9d1d9" alt="Top Languages" height="180"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GurenMashu&theme=tokyonight" alt="GitHub Profile Summary"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=GurenMashu&theme=tokyonight" alt="GitHub Stats" height="180"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GurenMashu&theme=tokyonight" alt="Top Languages" height="180"/>
 </div>
 <br>
 <div align="center">
@@ -65,6 +66,6 @@ class GurenMashu:
 </p>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:232526,100:414345&height=120&section=footer&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5a189a,100:414345&height=150&section=footer&animation=fadeIn" width="100%"/>
 </div>
 
