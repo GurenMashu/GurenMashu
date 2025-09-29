@@ -1,5 +1,5 @@
 <div align="center">
-  <h1><code style="font-family: 'Courier New', 'Monaco', 'Menlo', 'Consolas', monospace; font-size: 2.5rem; color: #7B61FF; background-color: #0d1117;">GurenMashu</code></h1>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:83a4d4,100:b6fbff&height=200&section=header&text=Hi,%2%I'm%20Glenn%20&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=35" width="100%"/>
 </div>
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=800&color=7B61FF&background=00000000&center=true&vCenter=true&multiline=true&width=800&height=120&lines=Aspiring+Machine+Learning+Engineer;Deep+Learning+Enthusiast" alt="Typing Animation"/>
@@ -21,7 +21,7 @@ Passionate about building intelligent systems, deploying ML models, and crafting
 ---
 
 ## Experience
-- **Software Engineer Intern** — *4Labs Technologies* · `2022 – Present`   
+- **Software Engineer Intern** — *4Labs Technologies* · `June - Aug [2025]`   
 
 ---
 
@@ -32,9 +32,9 @@ Passionate about building intelligent systems, deploying ML models, and crafting
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=apachespark&logoColor=white)
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-0A192F?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=fedora&logoColor=black)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-0A192F?style=for-the-badge&logo=pytorch&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG-5A2E82?style=for-the-badge&logo=OpenAI&logoColor=white)
 
 </p>
@@ -44,24 +44,18 @@ Passionate about building intelligent systems, deploying ML models, and crafting
 ```python 
 class GurenMashu:
     def __init__(self):
-        self.role = "Software Engineer"
-        self.focus = ["AI/ML", "Full-Stack Development", "Cloud Architecture"]
-        self.currently_learning = ["MLOps", "Transformer Architecture", "Kubernetes"]
-        self.interests = ["RAG Systems", "Computer Vision", "NLP"]
+        self.role = "ML/DL"
+        self.focus = ["ML/DL", "Pythonic Applications"]
+        self.currently_learning = ["MLOps", "DL", "Package building"]
         
     def get_current_projects(self):
         return [
-            "🔬 Advanced RAG Implementation",
-            "🤖 Custom LLM Fine-tuning",
-            "🌐 AI-Powered Web Applications",
-            "📊 ML Model Deployment Pipeline"
+            "🔬 EXACT - a python library",
+            "🤖 pagebinder - a python tool",
+            "🌐 RAG powered document application",
+            "📊 ML Model Deployment Pipelines"
         ]
 ```
----
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GurenMashu&theme=tokyo-night&bg_color=0d1117&color=7b61ff&line=7b61ff&point=ffffff&area=true&hide_border=true" alt="Contribution Graph"/>
-</div>
 
 ## Connect with Me
 <p align="left">
@@ -71,5 +65,6 @@ class GurenMashu:
 </p>
 
 <div align="center">
-  <i>⚡ "Building the future with code, one algorithm at a time" ⚡</i>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:232526,100:414345&height=120&section=footer&animation=fadeIn" width="100%"/>
 </div>
+
