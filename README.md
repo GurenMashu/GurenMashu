@@ -21,7 +21,8 @@ Passionate about building intelligent systems, deploying ML models, and crafting
 
 ---
 
-## Experience
+## Experience 
+- **AI Developer Intern** - *SoftServedWeb* . `Oct - Dec [2025]`
 - **Software Engineer Intern** — *4Labs Technologies* · `June - Aug [2025]`   
 
 ---
@@ -51,18 +52,18 @@ class GurenMashu:
         
     def get_current_projects(self):
         return [
-            "🔬 EXACT - a python library",
-            "🤖 pagebinder - a python tool",
-            "🌐 RAG powered document application",
-            "📊 ML Model Deployment Pipelines"
+            "EXACT - a python library",
+            "pagebinder - a python tool",
+            "RAG powered document application",
+            "ML models with Pytorch"
         ]
 ```
 
 ## Connect with Me
 <p align="left">
-  📫 Gmail: <a href="mailto:your.email@gmail.com">glennmathews18@gmail.com</a><br>
-  🔗 LinkedIn: <a href="https://www.linkedin.com/in/glenn-mathews-0a9641253/">GlennMathews</a><br>
-  📱 Phone: +91-8848693581
+  Gmail: <a href="mailto:your.email@gmail.com">glennmathews18@gmail.com</a><br>
+  LinkedIn: <a href="https://www.linkedin.com/in/glenn-mathews-0a9641253/">GlennMathews</a><br>
+  Phone: +91-8848693581
 </p>
 
 <div align="center">
