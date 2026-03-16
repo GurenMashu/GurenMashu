@@ -22,7 +22,7 @@ Passionate about building intelligent systems, deploying ML models, and crafting
 ---
 
 ## Experience 
-- **AI Developer Intern** - *SoftServedWeb* . `Oct - Dec [2025]`
+- **AI Developer Intern** — *SoftServedWeb* · `Oct - Dec [2025]`
 - **Software Engineer Intern** — *4Labs Technologies* · `June - Aug [2025]`   
 
 ---
