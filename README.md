@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5a189a,100:b6fbff&height=200&section=header&text=Hi,%20%I'm%20Glenn%20&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=35" width="100%"/>
 </div>
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=800&color=7B61FF&background=00000000&center=true&vCenter=true&multiline=true&width=800&height=120&lines=Aspiring+Machine+Learning+Engineer;Deep+Learning+Enthusiast" alt="Typing Animation"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=800&color=7B61FF&background=00000000&center=true&vCenter=true&multiline=true&width=800&height=120&lines=Not+just+a+node+in+the+net+-;building+connections+that+matter" alt="Typing Animation"/>
 </div>
 <br>
 
