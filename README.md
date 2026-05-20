@@ -1,18 +1,18 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5a189a,100:b6fbff&height=200&section=header&text=Hi,%2%I'm%20Glenn%20&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=35" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5a189a,100:b6fbff&height=200&section=header&text=Hi,%20%I'm%20Glenn%20&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=35" width="100%"/>
 </div>
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=800&color=7B61FF&background=00000000&center=true&vCenter=true&multiline=true&width=800&height=120&lines=Aspiring+Machine+Learning+Engineer;Deep+Learning+Enthusiast" alt="Typing Animation"/>
 </div>
 <br>
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GurenMashu&theme=tokyonight" alt="GitHub Profile Summary"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=GurenMashu&theme=tokyonight" alt="GitHub Stats" height="180"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GurenMashu&theme=tokyonight" alt="Top Languages" height="180"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GurenMashu&theme=tokyonight" alt="GitHub Profile Summary"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GurenMashu&theme=tokyonight" alt="GitHub Stats" height="180"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GurenMashu&theme=tokyonight" alt="Top Languages" height="180"/>
 </div>
 <br>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=GurenMashu&theme=tokyonight&hide_border=true&background=0D1117&ring=7B61FF&fire=7B61FF&currStreakLabel=C9D1D9&sideLabels=C9D1D9&currStreakNum=7B61FF&sideNums=7B61FF&dates=8B949E" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.demolab.com?user=GurenMashu&theme=tokyonight&hide_border=true&background=0D1117&ring=7B61FF&fire=7B61FF&currStreakLabel=C9D1D9&sideLabels=C9D1D9&currStreakNum=7B61FF&sideNums=7B61FF&dates=8B949E" alt="GitHub Streak"/>
 </div>
 
 ## About Me
@@ -61,9 +61,8 @@ class GurenMashu:
 
 ## Connect with Me
 <p align="left">
-  Gmail: <a href="mailto:your.email@gmail.com">glennmathews18@gmail.com</a><br>
+  Gmail: <a href="mailto:glennmathews18@gmail.com">glennmathews18@gmail.com</a><br>
   LinkedIn: <a href="https://www.linkedin.com/in/glenn-mathews-0a9641253/">GlennMathews</a><br>
-  Phone: +91-8848693581
 </p>
 
 <div align="center">
