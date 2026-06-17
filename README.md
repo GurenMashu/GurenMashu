@@ -21,17 +21,28 @@ Passionate about building intelligent systems, deploying ML models, and crafting
 ---
 
 ## Skills
-<p align="center">
-  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=fedora&logoColor=black)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-0A192F?style=for-the-badge&logo=pytorch&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-5A2E82?style=for-the-badge&logo=OpenAI&logoColor=white)
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLflow"/>
+  <img src="https://img.shields.io/badge/LangGraph-1B1F2B?style=for-the-badge&logo=langchain&logoColor=white" alt="LangGraph"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/NLP-0A192F?style=for-the-badge&logo=openai&logoColor=white" alt="NLP"/>
+  <img src="https://img.shields.io/badge/RAG-5A2E82?style=for-the-badge&logo=openai&logoColor=white" alt="RAG"/>
+  <img src="https://img.shields.io/badge/Information%20Extraction-2D3748?style=for-the-badge&logo=opensearch&logoColor=white" alt="Information Extraction"/>
+  <img src="https://img.shields.io/badge/Deep%20Learning-0A192F?style=for-the-badge&logo=pytorch&logoColor=white" alt="Deep Learning"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Machine Learning"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/Pipeline%20Development-4A5568?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="Pipeline Development"/>
 </p>
 
 ---
