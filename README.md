@@ -28,15 +28,15 @@ Passionate about building intelligent systems, deploying ML models, and crafting
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
   <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLflow"/>
-  <img src="https://img.shields.io/badge/LangGraph-1B1F2B?style=for-the-badge&logo=langchain&logoColor=white" alt="LangGraph"/>
+  <img src="https://img.shields.io/badge/LangGraph-1B1F2B?style=for-the-badge&logo=langgraph&logoColor=white" alt="LangGraph"/>
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/NLP-0A192F?style=for-the-badge&logo=openai&logoColor=white" alt="NLP"/>
   <img src="https://img.shields.io/badge/RAG-5A2E82?style=for-the-badge&logo=openai&logoColor=white" alt="RAG"/>
-  <img src="https://img.shields.io/badge/Information%20Extraction-2D3748?style=for-the-badge&logo=opensearch&logoColor=white" alt="Information Extraction"/>
-  <img src="https://img.shields.io/badge/Deep%20Learning-0A192F?style=for-the-badge&logo=pytorch&logoColor=white" alt="Deep Learning"/>
-  <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Machine Learning"/>
+  <img src="https://img.shields.io/badge/Information%20Extraction-2D3748?style=for-the-badge&logo=information-extraction&logoColor=white" alt="Information Extraction"/>
+  <img src="https://img.shields.io/badge/Deep%20Learning-0A192F?style=for-the-badge&logo=deep-learningh&logoColor=white" alt="Deep Learning"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=machine-learning&logoColor=white" alt="Machine Learning"/>
 </p>
 
 <p align="center">
