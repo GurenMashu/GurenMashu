@@ -50,9 +50,9 @@ Passionate about building intelligent systems, deploying ML models, and crafting
 ```python 
 class GurenMashu:
     def __init__(self):
-        self.role = "ML/DL"
-        self.focus = ["ML/DL", "Pythonic Applications"]
-        self.currently_learning = ["MLOps", "DL", "Package building"]
+        self.role = "AI/ML engineer
+        self.focus = ["ML", "DL", "Pythonic Applications"]
+        self.currently_learning = ["MLOps", "Agentic systems"]
         
     def get_current_projects(self):
         return [
