@@ -14,7 +14,7 @@ Passionate about building intelligent systems, deploying ML models, and crafting
 ---
 
 ## Experience 
-- **Intern** - *ACSIA Technologies* . `Jan - July [2026]`
+- **Research Intern** - *ACSIA Technologies* . `Jan - July [2026]`
 - **AI Developer Intern** — *SoftServedWeb* · `Oct - Dec [2025]`
 - **Software Engineer Intern** — *4Labs Technologies* · `June - Aug [2025]`   
 
